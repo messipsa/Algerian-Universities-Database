@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1577327265 source:e:\version_finale\fonction.c
+	"fonction.h"
+	<stdio.h>
+
+1577313550 e:\version_finale\fonction.h
+	<stdio.h>
+
+1577330312 source:e:\version_finale\main.c
+	"fonction.h"
+	<stdio.h>
+	<string.h>
+
+1577330796 source:f:\version_finale\fonction.c
+	"fonction.h"
+	<stdio.h>
+
+1577313552 f:\version_finale\fonction.h
+	<stdio.h>
+
+1577332530 source:f:\version_finale\main.c
+	"fonction.h"
+	<stdio.h>
+	<string.h>
+
+1577396591 source:c:\users\dell\desktop\version_finale\fonction.c
+	"fonction.h"
+	<stdio.h>
+
+1577392463 c:\users\dell\desktop\version_finale\fonction.h
+	<stdio.h>
+
+1577396715 source:c:\users\dell\desktop\version_finale\main.c
+	"fonction.h"
+	<stdio.h>
+	<string.h>
+	"conio.h"
+	<windows.h>
+
+1577400191 source:c:\users\dell\desktop\tamazouzt_adjedjou_g7\fonction.c
+	"fonction.h"
+	<stdio.h>
+
+1577396063 c:\users\dell\desktop\tamazouzt_adjedjou_g7\fonction.h
+	<stdio.h>
+
+1583664533 source:c:\users\dell\desktop\tamazouzt_adjedjou_g7\main.c
+	"fonction.h"
+	<stdio.h>
+	<string.h>
+	"conio.h"
+	<windows.h>
+
